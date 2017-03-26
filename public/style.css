@@ -1,0 +1,76 @@
+body {
+background-color: tomato;
+}
+
+
+.red {
+  height: 200px;
+  background-color: red;
+}
+
+.pink {
+  height: 200px;
+  background-color: tomato;
+}
+
+#test{
+  border: 1px solid white;
+  height: 200px;
+  width: 200px;
+}
+
+.key {
+  height: 200px;
+  background-color: red;
+}
+
+
+.demo {
+    -webkit-animation-name: demo;
+    -webkit-animation-duration: 900ms;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: ease-in-out;
+}
+
+
+
+/*
+#do {
+  height: 200px;
+  background-color: red;
+}
+
+#re {
+  height: 200px;
+  background-color: orange;
+}
+
+#mi {
+  height: 200px;
+  background-color: yellow;
+}
+
+#fa {
+  height: 200px;
+  background-color: green;
+}
+
+#sol {
+  height: 200px;
+  background-color: blue;
+}
+
+#la {
+  height: 200px;
+  background-color: purple;
+}
+
+#ti {
+  height: 200px;
+  background-color: pink;
+}
+
+#do2 {
+  height: 200px;
+  background-color: red;
+}*/
